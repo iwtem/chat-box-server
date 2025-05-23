@@ -21,5 +21,6 @@
   "editor.defaultFormatter": "ms-python.black-formatter",
   "[toml]": {
     "editor.defaultFormatter": "tamasfe.even-better-toml"
-  }
+  },
+  "python.analysis.typeCheckingMode": "basic"
 }
