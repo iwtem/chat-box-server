@@ -1,0 +1,25 @@
+{
+  "cSpell.language": "zh,en",
+  "cSpell.words": [
+    "deepseek",
+    "JavaScript",
+    "katex",
+    "lmstudio",
+    "nextjs",
+    "oklch",
+    "ollama",
+    "pyproject",
+    "qwen",
+    "React",
+    "sonner",
+    "turbopack",
+    "VSCode"
+  ],
+  "terminal.integrated.scrollback": 5000,
+  "editor.rulers": [100],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "[toml]": {
+    "editor.defaultFormatter": "tamasfe.even-better-toml"
+  }
+}
